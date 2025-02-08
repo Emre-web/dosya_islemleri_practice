@@ -1,0 +1,84 @@
+Adı-Soyadı Dersi Birinci vize/İkinci vize/Final
+Ahmet-Yıldırım Fizik 94/56/74
+Emre-Yıldırım Yönetim Bilişim Sistemleri 78/35/88
+Ayşe-Demir Matematik 83/67/72
+Mehmet-Kaya Kimya 65/70/88
+Fatma-Turan Biyoloji 72/65/90
+Hasan-Yılmaz Tarih 85/48/76
+Zeynep-Kurt Edebiyat 91/50/67
+Ali-Çelik Felsefe 76/66/80
+Elif-Karakaya Psikoloji 82/58/90
+Hüseyin-Öztürk Bilgisayar Mühendisliği 91/79/95
+Meryem-Aydın Ekonomi 88/56/84
+Selim-Karaca İstatistik 73/60/72
+Burak-Demirtaş Makine Mühendisliği 79/70/85
+Duygu-Yavuz Elektrik Mühendisliği 80/75/88
+Gökhan-Köse Elektronik Mühendisliği 85/60/90
+Cansu-Aksoy Mimarlık 92/66/80
+Burcu-Kaplan Hukuk 76/52/74
+Erdal-Çetin İletişim 83/68/79
+Büşra-Güzel İşletme 70/54/72
+Ömer-Şahin İngilizce 88/77/93
+Mert-Bulut Tiyatro 65/40/60
+Sedef-Öztürk Yönetim 78/82/91
+Orhan-Karahan Coğrafya 84/60/81
+Şeyma-Görmez Kimya Mühendisliği 79/85/90
+Ahmet-Bilge Grafik Tasarım 80/50/78
+Ayla-Karaman Gıda Mühendisliği 72/69/80
+Serkan-Kara Çalışma Ekonomisi 78/72/74
+Yasemin-Karabağ Biyoteknoloji 89/82/92
+Emine-Özdemir Fizik Mühendisliği 83/67/88
+İsmail-Güler İleri Matematik 92/68/89
+Ali-Tuncer Elektrik ve Elektronik 77/53/82
+Sevil-Kaya Sosyoloji 68/60/76
+Hikmet-Tekin İleri Kimya 79/68/85
+Mehmet-Aydın Tıp 85/72/90
+Yusuf-Karakış İktisat 82/75/88
+Berna-Yıldız Çevre Mühendisliği 76/58/80
+Efe-Kağan Jeoloji 91/70/89
+Murat-Sayıl Müzik 84/66/87
+Tugba-Yılmaz Pazarlama 88/60/90
+Zeki-Yüksel Yönetim ve Organizasyon 70/59/74
+Hülya-Kaya Bilgisayar Bilimleri 80/77/85
+Serdar-Korkmaz Endüstri Mühendisliği 90/70/92
+Hikmet-Akın İstatistik Mühendisliği 83/55/84
+Fatma-Demir Elektronik 86/64/80
+Alev-Keskin Hukuk Fakültesi 75/52/72
+Erhan-Demir Sanat Tarihi 91/70/85
+Berk-Sözen Felsefe Mühendisliği 79/74/90
+Hasan-Öztürk Edebiyat Fakültesi 68/60/75
+Melis-Korkmaz Endüstri 88/70/91
+Kemal-Karadeniz Ziraat Mühendisliği 72/66/78
+Cemre-Aksoy Moda Tasarımı 77/65/80
+İbrahim-Kaplan Tarih Mühendisliği 70/53/79
+Özlem-Bulut İletişim Fakültesi 78/65/88
+Büşra-Gökçe Matematik Mühendisliği 83/71/90
+Osman-Çetin İktisat Fakültesi 79/67/80
+Emin-Kavak Sağlık Bilimleri 75/55/89
+Murat-Akman Çalışma Bilimleri 91/80/94
+Hüseyin-Yavuz Kimya Bölümü 86/62/88
+Sinem-Kaya Fen Bilimleri 74/67/80
+Burhan-Kocaman Elektrik 80/70/87
+Cengiz-Güler İşletme Fakültesi 79/55/78
+Filiz-Karadeniz İnsan Kaynakları 88/70/85
+Özgür-Aydın Endüstriyel Tasarım 76/62/80
+Hüseyin-Karakaya Sağlık Mühendisliği 83/70/91
+Derya-Aksoy İstatistik 90/68/85
+Zeynep-Soysal Elektrik ve Elektronik 77/60/84
+Alper-Kara Tıbbi Bilimler 92/68/89
+Pelin-Demir Grafik ve Tasarım 74/60/78
+Ayhan-Kaya Ziraat Fakültesi 87/75/92
+Mehmet-Çelik Sağlık Yönetimi 80/69/85
+Hakan-Turan Makine 81/70/88
+Figen-Bulut Elektrik-Elektronik 79/62/90
+Berk-Öztürk Edebiyat Bölümü 75/61/80
+İsmail-Çetin İnşaat 86/72/90
+Elif-Karakaya Kimya 70/58/75
+Ali-Özdemir İşletme 82/74/88
+Ayşe-Yılmaz Matematiksel Modelleme 77/69/86
+Zeynep-Gökçe Hukuk Fakültesi 80/75/83
+İbrahim-Çelik Makine 81/65/85
+Murat-Soysal Sanat ve Tasarım 85/69/88
+Seda-Kaya Finans 90/77/92
+Berkan-Yıldırım Felsefe Fakültesi 78/55/72
+Büşra-Tekin Çevre Mühendisliği 79/68/91

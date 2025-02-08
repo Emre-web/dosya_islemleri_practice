@@ -3,13 +3,6 @@
 Bu proje, öğrenci notlarını işleyerek **geçenler** ve **kalanlar** listesi oluşturur. 
 Verilen notları belirli kriterlere göre değerlendiren bu uygulama, verileri farklı dosyalara kaydeder.
 
-## İçindekiler
-
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Dosya Yapısı](#dosya-yapısı)
-- [Katkıda Bulunma](#katkıda-bulunma)
-
 ## Kurulum
 
 Bu projeyi çalıştırmak için Python yüklü olmalıdır. Proje, `utf-8` karakter kodlamasını kullanarak dosya işlemleri yapmaktadır.

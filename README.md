@@ -44,7 +44,7 @@ Kalanlar (kalanlar.txt)
 markdown
 Kopyala
 Düzenle
-Adı                     Soyadı                  Bölümü                        Ortalama
+Adı                     Soyadı                  Bölümü                        Ortalama    
 --------------------------------------------------------------
 Ali                     Tuncer                  Elektrik ve Elektronik         71.8
 Hikmet                  Tekin                   İleri Kimya                    78.1
